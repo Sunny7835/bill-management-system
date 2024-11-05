@@ -1,0 +1,15 @@
+	 welcome Bill Area
+ Bill No:94207
+ Customer Name:mohit
+ Phone NO:75463687
+-------------------------------------
+ Products		QTY		Price
+-------------------------------------
+ Lipstik		 5		200
+ Basmati-Rice		 9		540
+-------------------------------------
+ Cosmetic Tax				10.0
+ Grocery Tax				27.0
+-------------------------------------
+ Total Bill				777.0
+-------------------------------------

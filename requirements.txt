@@ -1,0 +1,12 @@
+Hardware System Requirement: 2 GB or 4 GB
+Operating System:  Windows OS
+Processor: Any Processor (Intel core I3)
+Software Requirement System:
+1. first install pillow module:
+	pip install pillow
+DataBase:sqlite3
+2.Install exe file
+	pip install pyinstaller
+
+3. execute pyinstaller cmd:
+	pyinstaller --onefile -w --name bill_mgt_system.exe login.py adminreg.py bill.py 

@@ -1,0 +1,17 @@
+	 welcome Bill Area
+ Bill No:92985
+ Customer Name:Vikas gupta
+ Phone NO:1234567
+-------------------------------------
+ Products		QTY		Price
+-------------------------------------
+ Bodylosan		 1		40
+ Sugar		 2		80
+ ThumsUp		 1		90
+-------------------------------------
+ Cosmetic Tax				2.0
+ Grocery Tax				4.0
+ ColdDrinks Tax				4.5
+-------------------------------------
+ Total Bill				220.5
+-------------------------------------
